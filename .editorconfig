@@ -4,3 +4,6 @@ indent_size = 4
 indent_style = space
 insert_final_newline = true
 trim_trailing_whitespace = true
+
+ij_kotlin_keep_simple_blocks_in_one_line = true
+ij_kotlin_keep_simple_functions_in_one_line = true
